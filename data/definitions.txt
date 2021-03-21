@@ -1,0 +1,622 @@
+ADR|Adria Radar||ADR
+ADR-W|Adria Radar (West)|ADR_W|ADR-W
+ADR-E|Adria Radar (East)|ADR_E|ADR-E
+AGGG|Honiara||AGGG
+ANAU|Nauru||ANAU
+AYPM|Port Moresby||AYPM
+BGGL|Nuuk||BGGL
+BIRD|Reykjavik||BIRD
+BIRD-E|Reykjavik ACC (East) - Reykjavik|BIRD_E|BIRD-E
+BIRD-N|Reykjavik ACC (North) - Reykjavik|BIRD_N|BIRD-N
+BIRD-S|Reykjavik ACC (South) - Reykjavik|BIRD_S|BIRD-S
+BIRD-W|Reykjavik ACC (West) - Reykjavik|BIRD_W|BIRD-W
+CZEG|Edmonton|EDM|CZEG
+CZEG|Edmonton|ZEG|CZEG
+CZQM|Moncton|MCN|CZQM
+CZZV|Sept-Iles (CZUL SFC-280 / CZQM 290-ABV)||CZZV
+CZQX|Gander|GAND|CZQX
+CZQX|Gander|YQX|CZQX
+CZQX|Gander Radio|GAN|CZQX
+CZQX-GOTA|Gander Oceanic Transition Area||CZQX-GOTA
+CZUL|Montreal|MTL|CZUL
+CZVR|Vancouver|VAN|CZVR
+CZVR|Vancouver|CYVR|CZVR
+CZVR|Vancouver|ZVR|CZVR
+CZWG|Winnipeg|YWG|CZWG
+CZWG|Winnipeg|ZWG|CZWG
+CZYZ|Toronto|TOR|CZYZ
+DAAA|Algiers||DAAA
+DGAC|Accra||DGAC
+DIII|Abidjan||DIII
+DNKK|Kano||DNKK
+DRRR|Niamey||DRRR
+DTTC|Tunis||DTTC
+EBBU|Brussels||EBBU
+EBUR|Brussels Upper||EBBU
+EDGG|Langen||EDGG
+EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_E|EDGG-E
+EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_B|EDGG-E
+EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_F|EDGG-E
+EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_G|EDGG-E
+EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_K|EDGG-E
+EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_O|EDGG-E
+EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_R|EDGG-E
+EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_Z|EDGG-E
+EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_S|EDGG-E
+EDGG-E|Langen Radar (Hersfeld) - Langen|EDGG_SE|EDGG-E
+EDGG-P|Langen Radar (Pad High) - Langen|EDGG_N|EDGG-P
+EDGG-P|Langen Radar (Pad High) - Langen|EDGG_H|EDGG-P
+EDGG-P|Langen Radar (Pad High) - Langen|EDGG_P|EDGG-P
+EDGG-P|Langen Radar (Pad High) - Langen|EDGG_W|EDGG-P
+EDGG-P|Langen Radar (Pad High) - Langen|EDGG_NW|EDGG-P
+EDMM|Muenchen|EDMM_C|EDMM
+EDMM|Muenchen|EDMM_E|EDMM
+EDMM|Muenchen|EDMM_F|EDMM
+EDMM|Muenchen|EDMM_K|EDMM
+EDMM|Muenchen|EDMM_R|EDMM
+EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_G|EDMM-G
+EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_A|EDMM-G
+EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_T|EDMM-G
+EDMM-R|Muenchen ACC (Roding) - Muenchen|EDMM_S|EDMM-R
+EDMM-R|Muenchen ACC (Roding) - Muenchen|EDMM_R|EDMM-R
+EDWW|Bremen||EDWW
+EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_E|EDWW-B
+EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_B|EDWW-B
+EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_I|EDWW-B
+EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_M|EDWW-B
+EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_W|EDWW-A
+EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_A|EDWW-A
+EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_N|EDWW-A
+EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_S|EDWW-A
+EETT|Tallinn||EETT
+EFIN|Helsinki||EFIN
+EGGX|Shanwick Oceanic|EGX|EGGX
+EGGX|Shanwick Oceanic|GX|EGGX
+EGGX|Shanwick Oceanic|SH|EGGX
+EGGX|Shanwick Oceanic|SR|EGGX
+EGGX|Shanwick Oceanic|SHW|EGGX
+EGGX|Shanwick Oceanic|SHAN|EGGX
+EGGX|Shanwick Oceanic|SWICK|EGGX
+EGGX|Shanwick Oceanic|SHWICK|EGGX
+EGGX|Shanwick Oceanic|SAWICK|EGGX
+EGGX|Shanwick Oceanic|SNWICK|EGGX
+EGG1|Shanwick|SC|EGGX
+EGG2|Shanwick Clearance Delivery|SC-D|EGGX
+EGG3|Shanwick Oceanic Routing Clearance Authority|S-ORCA|EGGX
+EGG3|Shanwick Oceanic Routing Clearance Authority|SORCA|EGGX
+EGG4|Shanwick Oceanic Clearance Delivery|EGGX-D|EGGX
+EGG4|Shanwick Oceanic Clearance Delivery|EGX-D|EGGX
+EGG4|Shanwick Oceanic Clearance Delivery|EG-D|EGGX
+EGG4|Shanwick Oceanic Clearance Delivery|GX-D|EGGX
+EGG4|Shanwick Oceanic Clearance Delivery|SH-D|EGGX
+EGG4|Shanwick Oceanic Clearance Delivery|SR-D|EGGX
+EGG4|Shanwick Oceanic Clearance Delivery|SHW-D|EGGX
+EGG4|Shanwick Oceanic Clearance Delivery|SHAN-D|EGGX
+EGPX|Scottish|SCO|EGPX
+EGPX-D|Scottish ACC (Dean Cross) - Scottish|SCO_D|EGPX-D
+EGPX-D|Scottish TMA (Up to FL255) - Scottish|STC|EGPX-D
+EGPX-D|Scottish TMA (Up to FL255) - Scottish|STC_W|EGPX-D
+EGPX-D|Scottish TMA (Up to FL255) - Scottish|STC_E|EGPX-D
+EGPX-E|Scottish ACC (East) - Scottish|SCO_E|EGPX-E
+EGPX-E|Scottish ACC (East) - Scottish|SCO_N|EGPX-E
+EGPX-E|Scottish ACC (East) - Scottish|SCO_S|EGPX-E
+EGPX-WD|Scottish ACC (West/Dean Cross) - Scottish|SCO_WD|EGPX-WD
+EGPX-W|Scottish ACC (West) - Scottish|SCO_W|EGPX-W
+EGPX-R|Scottish ACC (Rathlin) - Scottish|SCO_R|EGPX-R
+EGPX-R|Scottish TMA (Antrim) - Scottish|STC_A|EGPX-R
+EGTL|London TMA (Up to FL195)|LTC|EGTL
+EGTM|Manchester TMA (Up to FL285)|MAN|EGTM
+EGTT|London|LON|EGTT
+EGTT-C|London ACC (Central) - London|LON_C|EGTT-C
+EGTT-C|London ACC (Central) - London|LON_E|EGTT-C
+EGTT-C|London ACC (Central) - London|LTC_N|EGTT-C
+EGTT-C|London ACC (Central) - London|LTC_NW|EGTT-C
+EGTT-N|London ACC (North) - London|LON_N|EGTT-N
+EGTT-S|London ACC (South) - London|LON_S|EGTT-S
+EGTT-S|London ACC (South) - London|LON_D|EGTT-S
+EGTT-S|London ACC (South) - London|LTC_S|EGTT-S
+EGTT-S|London ACC (South) - London|LTC_SE|EGTT-S
+EGTT-S|London ACC (South) - London|LTC_SW|EGTT-S
+EGTT-SC|London ACC (South-Central) - London|LON_SC|EGTT-SC
+EGTT-W|London ACC (West) - London|LON_W|EGTT-W
+EGVV|Swanwick Military|LMLL|EGVV
+EGVV|Swanwick Military|SWML|EGVV
+EGVV|Swanwick Military|SWMIL|EGVV
+EGVV|Swanwick Military|SWAN|EGVV
+EGUJ|Neatishead Air Defence|NEAT|EGTT
+EGQN|Buchan Air Defence|BUCH|EGPX
+EGQN|Buchan Air Defence|BUAD|EGPX
+EGQQ|Swanwick Military (North)|SMIL|EGQQ
+EGOM|Spadeadam Range|SPAD|EGTT
+EHAA|Amsterdam||EHAA
+EHMC|Dutch Mil (Military)||EHAA
+EHML|Bandbox CRC (Military)||EHAA
+EIDW|Dublin|DUB|EIDW
+EISN|Shannon||EISN
+EKDK|Kobenhavn||EKDK
+ENBD|Bodo ACC - Polaris||ENBD
+ENBD-S|Bodo South ACC - Polaris|ENBD_S|ENBD-S
+ENOB|Bodo Oceanic||ENOB
+ENOR|Polaris||ENOR
+ENRC|Bodø RTC - Polaris||ENOR
+ENOS|Oslo ACC - Polaris||ENOS
+ENSV|Stavanger ACC - Polaris||ENSV
+EPWW|Warszawa|EPWA|EPWW
+EPWW-N|Warszawa|EPWW-N|EPWW
+EPWW-S|Warszawa|EPWW-S|EPWW
+EPWW-W|Warszawa|EPWW-W|EPWW
+EPWW-SW|Warszawa (if West offline)|EPWW-SW|EPWW
+EPWW-NW|Warszawa (if West offline)|EPWW-NW|EPWW
+ESMM|Malmo ACC - Sweden||ESMM
+ESOS|Stockholm ACC - Sweden||ESOS
+ESSR|Stockholm RTC - Sweden||ESOS
+EVRR|Riga||EVRR
+EYVL|Vilnius||EYVL
+FACA|Cape Town||FACA
+FACA-E|Cape Town ACC (East) - Cape Town|FACA_E|FACA-E
+FACA-W|Cape Town ACC (West) - Cape Town|FACA_W|FACA-W
+FAJO|Johannesburg Oceanic||FAJO
+FAJA|Johannesburg||FAJA
+FBGR|Gaborone||FBGR
+FCCC|Brazzaville||FCCC
+FIMM|Mauritius||FIMM
+FLFI|Lusaka||FLFI
+FMMM|Antananarivo||FMMM
+FNAN|Luanda||FNAN
+FQBE|Beira||FQBE
+FSSS|Seychelles||FSSS
+FTTT|N'Djamena||FTTT
+FVHF|Harare||FVHF
+FWLL|Lilongwe||FWLL
+FYWH|Windhoek||FYWH
+FZZA|Kinshasa||FZZA
+GCCC|Canarias||GCCC
+GLRB|Roberts||GLRB
+GMMM|Casablanca||GMMM
+GMMO|Agadir||GMMO
+GMMM_N|Casablanca||GMMM_N
+GMMM_E|Casablanca||GMMM_E
+GMMM_S|Casablanca||GMMM_S
+GOOO|Dakar||GOOO
+GVSC|Sal Oceanic||GVSC
+HAAA|Addis Ababa||HAAA
+HBBA|Bujumbura||HBBA
+HCSM|Mogadishu||HCSM
+HECC|Cairo||HECC
+HHAA|Asmara||HHAA
+HKNA|Nairobi||HKNA
+HLLL|Tripoli|TIP|HLLL
+HLLL|Tripoli|HLLT|HLLL
+HLLB|Benina|BEN|HLLL
+HRYR|Kigali||HRYR
+HSSS|Khartoum||HSSS
+HTDC|Dar-Es-Salaam||HTDC
+HUEC|Entebbe||HUEC
+KZAB|Albuquerque|ABQ|KZAB
+KZAU|Chicago|CHI|KZAU
+KZAU|Chicago|ORD|KZAU
+KZBW|Boston|BOS|KZBW
+KZDC|Washington|DC|KZDC
+KZDC|Washington|WAS|KZDC
+KZDV|Denver|DEN|KZDV
+KZFW|Fort Worth|FTW|KZFW
+KZHU|Houston|HOU|KZHU
+KZHU|Houston Oceanic|ZHU|KZHU
+KZID|Indianapolis|IND|KZID
+KZJX|Jacksonville|JAX|KZJX
+KZKC|Kansas City|MCI|KZKC
+KZKC|Kansas City|KC|KZKC
+KZLA|Los Angeles|LAX|KZLA
+KZLA|Los Angeles|LA|KZLA
+KZLC|Salt Lake City|SLC|KZLC
+KZMA|Miami|MIA|KZMA
+KZMO|Miami Oceanic|ZMA|KZMO
+KZMO|Miami Oceanic|ZMO|KZMO
+KZME|Memphis|MEM|KZME
+KZMP|Minneapolis|MSP|KZMP
+KZNY|New York|NY|KZNY
+KZNY-BDA|New York - Bermuda TMA|BDA|KZNY-BDA
+KZOA|Oakland|OAK|KZOA
+KZAK|Oakland Oceanic|ZAK|KZAK
+KZAK|Oakland Oceanic|OO|KZAK
+KZAK|Oakland Oceanic|OOR|KZAK
+KZAK|Oakland Oceanic|OORO|KZAK
+KZA1|San Francisco Oceanic|SF|KZAK
+KZA1|San Francisco Oceanic|SFR|KZAK
+KZA1|San Francisco Oceanic|SFRO|KZAK
+KZOB|Cleveland|CLE|KZOB
+KZSE|Seattle|SEA|KZSE
+KZTL|Atlanta|ATL|KZTL
+LAAA|Tirana||LAAA
+LBSR|Sofia||LBSR
+LBWR|Varna||LBWR
+LCCC|Nicosia||LCCC
+LCCC-E|Nicosia|LCCC-E|LCCC-E
+LCCC-H|Nicosia-(South2 Sector)|LCCC-H|LCCC-H
+LCCC-S|Nicosia|LCCC-S|LCCC-S
+LCCC-W|Nicosia|LCCC-W|LCCC-W
+LDZO|Zagreb||LDZO
+LECB|Barcelona|LEBL|LECB
+LECL|Valencia||LECL
+LECM|Madrid|LEMD|LECM
+LECP|Palma|LEPA|LECP
+LECS|Sevilla||LECS
+LEZL|Sevilla ACC - Sevilla||LEZL
+LFBB|Bordeaux||LFBB
+LFEE|Reims (Covers North-East LFFF FL195+)||LFEE
+LFEE-N|Reims North (Covers North-East LFFF FL295+)||LFEE-N
+LFEE-S|Reims South||LFEE-S
+LFFF|Paris|LFPG|LFFF
+LFMM|Marseille||LFMM
+LFRR|Brest||LFRR
+LFRR-N|Brest North||LFRR-N
+LFRR-E|Brest East (Covers West LFFF FL195+)||LFRR-E
+LFUM|Marseille Upper||LFMM
+LGGG|Athina||LGGG
+LGGG-E|Athina-(RDS sector)|LGGG-E|LGGG-E
+LGGG-W|Athina-(KRK sector)|LGGG-W|LGGG-W
+LGGG-S|Athina-(MIL sector)|LGGG-S|LGGG-S
+LGGG-K|Athina-(KFN sector)|LGGG-K|LGGG-K
+LGGG-P|Athina-(PLH sector|LGGG-P|LGGG-P
+LGGG-H|Athina-(KAV sector)|LGGG-H|LGGG-H
+LGMD|Makedonia-(SKP sector)||LGMD
+LGMD-E|Makedonia-(LMO sector)|LGMD-E|LGMD-E
+LGMD-K|Makedonia-(KVL sector)|LGMD-K|LGMD-K
+LGMD-T|Makedonia-(TSL sector)|LGMD-T|LGMD-T
+LHCC|Budapest||LHCC
+LIBB|Brindisi||LIBB
+LIMM|Milano||LIMM
+LIPP|Padova|LIMM|LIPP
+LIRR|Roma||LIRR
+LJLA|Ljubljana||LJLA
+LKAA|Praha||LKAA
+LLLL|Tel Aviv|LLTA|LLLL
+LLLL|Tel Aviv|SHOLET|LLLL
+LLSC|Tel Aviv South||LLSC
+LLPT|Tel Aviv North|PLUTO|LLPT
+LLPL|Pluto|PLUTO|LLLL
+LLGV|Hagav|HAGAV|LLLL
+LMMM|Malta||LMMM
+LOVV|Wien||LOVV
+LOVV|Wien|LOVV_N|LOVV-N
+LOVV|Wien|LOVV_S|LOVV-S
+LPPC|Lisboa||LPPC
+LPPC-D|Lisboa - DEMOS Sector|LPPC_D|LPPC-D
+LPPC-V|Lisboa - VERAM Sector|LPPC_V|LPPC-V
+LPPC-I|Lisboa - MADEIRA Sector|LPPC_I|LPPC-I
+LPPC-N|Lisboa - NORTH Sector|LPPC_N|LPPC-N
+LPPC-C|Lisboa - CENTRE Sector|LPPC_C|LPPC-C
+LPPC-S|Lisboa - SOUTH Sector|LPPC_S|LPPC-S
+LPPO|Santa Maria|LPAZ|LPPO
+LPPO-TMA|Santa Maria Radar|LPPO|LPPO-TMA
+LPAM|Lisboa Military||LPPC
+LQSB|Sarajevo|LQSA|LQSB
+LRBB|Bucharest||LRBB
+LSAS|Swiss|LSAG|LSAS
+LSAS|Swiss|LSAZ|LSAS
+LTAA|Ankara|LTBA|LTAA
+LTBB|Ankara|LTFM|LTBB
+LUUU|Chisinau|LUKK|LUUU
+LWSS|Skopje||LWSS
+LYBA|Beograd||LYBA
+LZBB|Bratislava||LZBB
+MDCS|Santo Domingo||MDCS
+MHCC|Cenamer||MHCC
+MKJK|Kingston||MKJK
+MMEX|Mexico|MEX|MMEX
+MMID|Merida||MMID
+MMTY|Monterrey||MMTY
+MMZT|Mazatlan|MZT|MMZT
+MMZT|Mazatlan|MMMZ|MMZT
+MPZL|Panama||MPZL
+MTEG|Port-Au-Prince||MTEG
+MUFH|Havana|HAV|MUFH
+MYNN|Nassau|MYNN|MYNN
+NFFF|Nadi Oceanic|NFFF|
+NFFN|Nadi|NFFN|
+NVVV|Port Vila|NVVV|
+NSTU|Pago Pago||NZZO
+NTTT|Tahiti Oceanic||NTTT
+NZZO|Auckland Oceanic||NZZO
+NZAA|Auckland||NZAA
+NZCB|Christchurch (Bay)|NZCH-B|NZCB
+NZCT|Christchurch (Taranaki)|NZCH-T|NZCT
+NZCK|Christchurch (Kaikoura)|NZCH-K|NZCK
+NZCS|Christchurch (South)|NZCH-S|NZCS
+NZOH|Ohakea ||NZOH
+NZCM|McMurdo||NZCM
+NSFA|Faleolo (Non-Standard)||NSFA
+OAKX|Kabul||OAKX
+OBBB|Bahrain||OBBB
+OBBB-E|Bahrain East|OBBB_E|OBBB-E
+OBBB-N|Bahrain North|OBBB_N|OBBB-N
+OBBB-S|Bahrain South|OBBB_S|OBBB-S
+OBBB-C|Bahrain Central|OBBB_C|OBBB-C
+OEJD|Jeddah||OEJD
+OIIX|Tehran|TEH|OIIX
+TEH-1W|Tehran 1 West|TEH_1W|TEH-1W
+TEH-1N|Tehran 1 North|TEH_1N|TEH-1N
+TEH-1E|Tehran 1 East|TEH_1E|TEH-1E
+TEH-2W|Tehran 2 West|TEH_2W|TEH-2W
+TEH-2E|Tehran 2 East|TEH_2E|TEH-2E
+TEH-3N|Tehran 3 North|TEH_3N|TEH-3N
+TEH-3S|Tehran 3 South|TEH_3S|TEH-3S
+TEH-4W|Tehran 4 West|TEH_4W|TEH-4W
+TEH-4S|Tehran 4 South|TEH_4S|TEH-4S
+TEH-4E|Tehran 4 East|TEH_4E|TEH-4E
+TEH-5W|Tehran 5 West|TEH_5W|TEH-5W
+TEH-5E|Tehran 5 East|TEH_5E|TEH-5E
+TEH-6E|Tehran 6 East|TEH_6E|TEH-6E
+TEH-6W|Tehran 6 West|TEH_6W|TEH-6W
+TEH-7|Tehran 7|TEH_7|TEH-7
+OJAC|Amman||OJAC
+OKAC|Kuwait||OKAC
+OLBB|Beirut|OLBA|OLBB
+OMAE|U.A.E|UAE|OMAE
+OOMM|Muscat||OOMM
+OPKR|Karachi||OPKR
+OPLR|Lahore||OPLR
+ORBB|Baghdad||ORBB
+OSTT|Damascus|OSDI|OSTT
+OYSC|Sanaa||OYSC
+PAZA|Anchorage|ANC|PAZA
+PGZU|Guam|GU|PGZU
+PGZU|Guam|GUM|PGZU
+PGZU|Guam|GUAM|PGZU
+PGZU|Guam|UAM|PGZU
+PHZH|Honolulu|HNL|PHZH
+PHZH|Honolulu|HCF|PHZH
+RCAA|Taipei|TPE|RCAA
+RJCG|Sapporo ACC - Fukuoka|SPO|RJCG
+RJCG|Sapporo ACC - Fukuoka|RJCO|RJCG
+RJDG|Fukuoka ACC - Fukuoka|FKO|RJDG
+RJJJ|Fukuoka|TOKYO|RJJJ
+RJJJ|Fukuoka|TOKYOE|RJJJ
+RJJJ|Fukuoka|TOKYOS|RJJJ
+RJJJ|Fukuoka|TOKYOW|RJJJ
+RJJJ|Fukuoka|TYO|RJJJ
+RJJJ|Fukuoka|TYOE|RJJJ
+RJJJ|Fukuoka|TYOS|RJJJ
+RJJJ|Fukuoka|TYOW|RJJJ
+RJTG|Tokyo ACC - Fukuoka||RJTG
+RKRR|Incheon ACC - Incheon||RKRR
+RKRR-N|Incheon ACC (North) - Incheon||RKRR-N
+RKRR-S|Incheon ACC (South) - Incheon||RKRR-S
+RKDA|Daegu ACC - Incheon||RKDA
+RKDA-E|Daegu ACC (East) - Incheon||RKDA
+RKDA-C|Daegu ACC (Central) - Incheon||RKDA
+RJBG|Kobe ACC - Fukuoka||RJBG
+RPHI|Manila||RPHI
+SACF|Cordoba||SACF
+SACO|Cordoba TMA - Cordoba||SACO
+SAEF|Ezeiza||SAEF
+SAEF-N|Ezeiza ACC (North) - Ezeiza|SAEF_N|SAEF-N
+SAEF-S|Ezeiza ACC (South) - Ezeiza|SAEF_S|SAEF-S
+BAIRES|Baires TMA - Ezeiza||BAIRES
+SAMF|Mendoza||SAMF
+SAME|Mendoza TMA - Mendoza||SAME
+SARR|Resistencia||SARR
+SARE|Resistencia TMA - Resistencia||SARE
+SAVF|Comodoro Rivadavia||SAVF
+SAVC|Comodoro Rivadavia TMA - Comodoro Rivadavia||SAVC
+SBAZ|Amazonica||SBAZ
+SBBS|Brasilia|SBBR|SBBS
+SBCW|Curitiba||SBCW
+SBAO|Atlantico Oceanic||SBAO
+SBRE|Recife||SBRE
+SCCZ|Punta Arenas||SCCZ
+SCEZ|Santiago||SCEZ
+SCFZ|Antofagasta||SCFZ
+SCIZ|Pascua||SCIZ
+SCTZ|Puerto Montt||SCTZ
+SEFG|Guayaquil||SEFG
+SGFA|Asuncion||SGFA
+SKEC|Barranquilla||SKEC
+SKED|Bogota||SKED
+SLLF|La Paz||SLLF
+SMPM|Paramaribo||SMPM
+SOOO|Rochambeau|SOCC|SOOO
+SPIM|Lima|LIM|SPIM
+SPI1|Lima North|SP-N|SPIM
+SPI2|Lima South|SP-S|SPIM
+SPI3|Lima North East|SP-E|SPIM
+SPI3|Lima North East|SP-NE|SPIM
+SUEO|Montevideo||SUEO
+SVZM|Maiquetia||SVZM
+SYGC|Georgetown||SYGC
+TJZS|San Juan|SJU|TJZS
+TNCF|Curacao||TNCF
+TTZP|Piarco||TTZP
+TTZO|Piarco Oceanic||TTZO
+UAAA|Almaty||UAAA
+UACN|Nur-Sultan||UACN
+UAII|Shymkent||UAII
+UATT|Aktyubinsk||UATT
+UBBA|Baku|UBBB|UBBA
+UCFM|Bishkek||UCFM
+UCFO|Osh||UCFO
+UDDD|Yerevan|UGEE|UDDD
+UEEE|Yakutsk||UEEE
+UGGG|Tbilisi||UGGG
+UHHH|Khabarovsk||UHHH
+UHMM|Magadan||UHMM
+UHPP|Petropavlovsk-Kamchatsky||UHPP
+UIII|Irkutsk||UIII
+UKBV|Kyiv|UKBB|UKBV
+UKFV|Simferopol|UKFF|UKFV
+UKDV|Dnipro||UKDV
+UKLV|Lviv|UKLL|UKLV
+UKOV|Odesa|UKOO|UKOV
+ULAA|Arkhangelsk ACC - Arkhangelsk||ULAA
+ULAM|Naryan-Mar ACC - Arkhangelsk||ULAM
+ULKK|Kotlas ACC - Arkhangelsk||ULKK
+ULLL|Sankt-Peterburg ACC - Sankt-Peterburg||ULLL
+ULMM|Murmansk||ULMM
+ULWW|Vologda ACC - Sankt-Peterburg||ULWW
+UMKK|Kaliningrad||UMKK
+UMMV|Minsk|UMMM|UMMV
+UNKL|Krasnoyarsk||UNKL
+UNNT|Novosibirsk||UNNT
+URFV|Simferopol|URFF|
+URRV|Rostov||URRV
+USCC|Chelyabinsk ACC - Ural||USCC
+USDD|Salekhard ACC - Tyumen||USDD
+USDK|Kamenny Mys ACC - Tyumen||USDK
+USDS|Tarko-Sale ACC - Tyumen||USDS
+USKK|Kirov ACC - Ural||USKK
+USPP|Perm ACC - Ural||USPP
+USSV|Yekaterinburg ACC - Ural||USSV
+USTV|Tyumen ACC - Tyumen||USTV
+UTAA|Ashkhabad||UTAA
+UTAK|Turkmenbashy||UTAK
+UTAT|Dashkhovuz||UTAT
+UTAV|Turkmenabat||UTAV
+UTDD|Dushanbe||UTDD
+UTSD|Samarkand||UTSD
+UTTR|Tashkent||UTTR
+UUWV|Moscow||UUWV
+UUYY|Syktyvkar||UUYY
+UWWW|Samara||UWWW
+VAAH|Ahmedabad||VAAH
+VABB|Mumbai ACC - Mumbai||VABB
+VABF|Mumbai||VABF
+VABX|Mumbai Oceanic||VABX
+VANP|Nagpur||VANP
+VCCF|Colombo||VCCF
+VDPF|Phnom Penh||VDPF
+VEBN|Varanasi||VEBN
+VECC|Kolkata ACC - Kolkata||VECC
+VECC-B|Kolkata (Bhubneshwar) ACC - Kolkata||VECC-B
+VECC-R|Kolkata (Raipur) ACC - Kolkata||VECC-R
+VECF|Kolkata||VECF
+VECX|Kolkata Oceanic||VECX
+VEGF|Guwahati||VEGF
+VGFR|Dhaka||VGFR
+VHHK|Hong Kong|HKG|VHHK
+VIDF|Delhi||VIDF
+VIDP|Delhi ACC - Delhi||VIDP
+VLVT|Vientiane||VLVT
+VNSM|Kathmandu||VNSM
+VOBL|Bengaluru||VOBL
+VOCI|Cochin||VOCI
+VOHS|Shamshabad (Hyderabad)||VOHS
+VOMF|Chennai||VOMF
+VOML|Mangalore||VOML
+VOMM|Chennai ACC - Chennai||VOMM
+VOMX|Chennai Oceanic||VOMX
+VOTV|Trivandrum||VOTV
+VRMF|Male||VRMF
+VTBB|Bangkok||VTBB
+VVHN|Hanoi||VVHN
+VVHM|Ho-Chi-Minh||VVHM
+VYYF|Rangoon|VYYY|VYYF
+WAAF|Ujung Pandang||WAAF
+WAAF-B|Ujung Pandang (Bali)|WAAF_B|WAAF_B
+WAAF-W|Ujung Pandang (West)|WAAF_W|WAAF_W
+WAAF-E|Ujung Pandang (East)|WAAF_E|WAAF_E
+WBFC|Kota Kinabalu||WBFC
+WIIF|Jakarta||WIIF
+WIIF-N|Jakarta (North)|WIIF_N|WIIF-N
+WIIF-W|Jakarta (West)|WIIF_W|WIIF-W
+WIIF-E|Jakarta (East)|WIIF_E|WIIF-E
+WMFC|Kuala Lumpur||WMFC
+WSJC|Singapore||WSJC
+YARA|Brisbane (Arafura) 133.7|BN-ARA|
+YASP|Melbourne (Alice Springs) 131.8|ML-ASP|
+YWOL|Melbourne (Wollongong) 125.0|ML-WOL|
+YBKE|Melbourne (Bourke) 128.2|ML-BKE|
+YDOS|Brisbane (Downs) 135.6|BN-DOS|
+YESP|Melbourne (Esperance) 123.95|ML-ESP|
+YORE|Melbourne (Ore) 127.0|ML-ORE|
+YIND|Brisbane Radio (Indian) 122.4|ML-IND|
+YISA|Brisbane (Isa) 125.2|BN-ISA|
+YMDE|Brisbane (Mudgee) 133.0|BN-MDE|
+YSNO|Melbourne (Snowy) 124.0|ML-SNO|
+YTAS|Melbourne (Tasmania) 123.8|ML-TAS|
+YTBD|Melbourne (Tailem Bend) 125.3|ML-TBD|
+YTBP|Brisbane (Tabletop) 120.55|BN-TBP|
+YTRT|Brisbane (Territory) 133.2|BN-TRT|
+YTSN|Brisbane Radio (Tasman) 128.6|BN-TSN|YTSN
+YARM|Brisbane (Armadale) 130.9* (133.0)|BN-ARM|
+YAUG|Melbourne (Augusta) 127.05* (125.3)|ML-AUG|
+YBAR|Brisbane (Barra) 123.8* (120.55)|BN-BAR|
+YGTH|Melbourne (Griffith) 122.75* (125.0)|ML-GTH|
+YBIK|Melbourne (Bindook) 129.8* (125.0)|ML-BIK|
+YKAT|Melbourne (Katomba) 133.5* (125.0)|ML-KAT|
+YBIL|Melbourne (Billabong) 132.0* (127.0)|ML-BIL|
+YBUR|Brisbane (Burnett) 123.0* (135.6)|BN-BUR|
+YCOL|Brisbane Radio (Coral) 129.6* (128.6)|BN-COL|
+YCRS|Melbourne (Cross) 135.8* (123.95)|ML-CRS|
+YCVN|Brisbane (Carnarvon) 133.8* (135.6)|BN-CVN|
+YELW|Melbourne (Eildon Weir) 123.75* (124.0)|ML-ELW|
+YFLD|Brisbane Radio (Flinders) 129.5* (128.6)|BN-FLD|
+YFOR|Melbourne (Forest) 132.7* (131.8)|ML-FOR|
+YGEL|Melbourne (Geraldton) 134.2* (123.95)|ML-GEL|
+YGRN|Brisbane (Grafton) 120.3* (135.6)|BN-GRN|
+YGVE|Melbourne (Grove) 133.8* (123.95)|ML-GVE|
+YHUM|Melbourne (Hume) 132.2* (124.0)|ML-HUM|
+YHWE|Brisbane Radio (Howe) 124.6* (128.6)|BN-HWE|
+YHYD|Melbourne (Hyden) 118.2* (123.95)|ML-HYD|
+YINE|Brisbane Radio (Indian East) 123.65* (122.4)|ML-INE|
+YINS|Brisbane Radio (Indian South) 123.2* (122.4)|ML-INS|
+YJAR|Melbourne (Jarrah) 120.3* (123.95)|ML-JAR|
+YKEN|Brisbane (Kennedy) 120.15* (120.55)|BN-KEN|
+YKIY|Brisbane (Kimberley) 133.4* (133.2)|BN-KIY|
+YKPL|Brisbane (Keppel) 125.9* (135.6)|BN-KPL|
+YLEA|Melbourne (Leeman) 122.4* (123.95)|ML-LEA|
+YMLD|Brisbane (Maitland) 132.35* (133.0)|BN-MLD|
+YMOR|Melbourne (Morris) 133.7* (127.0)|ML-MOR|
+YMUN|Melbourne (Mungo) 132.6* (125.3)|ML-MUN|
+YOCN|Brisbane (Ocean) 133.6* (133.0)|BN-OCN|
+YOXL|Melbourne (Oxley) 128.5* (125.3)|ML-OXL|
+YPIY|Melbourne (Pingelly) 133.9* (123.95)|ML-PIY|
+YSDY|Brisbane (Straddy) 134.4* (135.6)|BN-SDY|
+YSWY|Brisbane (Swampy) 133.2* (120.55)|BN-SWY|
+YSTR|Brisbane (Sturt) 134.4* (133.2)|BN-STR|
+YTFR|Melbourne (Telfer) 125.4* (127.0)|ML-TFR|
+YWAR|Melbourne (Warburton) 124.9* (131.8)|ML-WAR|
+YWEG|Brisbane (Warrego) 132.45* (125.2)|BN-WEG|
+YWON|Melbourne (Wonthaggi) 135.3* (124.0)|ML-WON|
+YWRA|Melbourne (Woomera) 132.8* (128.2)|ML-WRA|
+YYWE|Melbourne (Yarrowee) 134.32* (124.0)|ML-YWE|
+ZBPE|Beijing||ZBPE
+ZBAA|Beijing ACC - Beijing|ZBAA|
+ZBHH|Hohhot ACC (Cover 7800m and Below) - Beijing|ZBHH|
+ZBYN|Taiyuan ACC (Cover 7800m and Below) - Beijing|ZBYN|
+ZBLA|Hailar ACC(Cover 12500m and Below) - Beijing|ZBLA|
+ZHCC|Zhengzhou ACC (Cover ZHCC 7800m and Below) - Wuhan|ZHCC|
+ZHHH|Wuhan ACC (Cover ZHHH 7800m and Below) - Wuhan|ZHHH|
+ZHWH|Wuhan CTR (Cover ZHCC and ZHHH 7800m and Below) - Wuhan|ZHWH|
+ZGHA|Changsha ACC (Cover ZGHA 7800m and Below) - Guangzhou|ZGHA|
+ZGNN|Nanning ACC - Guangzhou|ZGNN|
+ZGKL|Guilin ACC (Cover ZGKL 7800m and Below) - Guangzhou|ZGKL|
+ZGZJ|Zhanjiang ACC [AR01/03(Cover 7800m and Below)][AR02(Cover 8900m and Below)] - Guangzhou|ZGZJ|
+ZGGG|Guangzhou ACC - Guangzhou|ZGGG|
+ZGZU|Guangzhou|ZGZU|
+ZJSA|Sanya ACC (ZGZJ Overlap area [AR11 7800m Above][AR12 8900m Above) Sanya|ZJSA|
+ZJSY|Sanya ACC AR01 - Sanya|ZJSY|
+ZKKP|Pyongyang|ZKKP|
+ZLHW|Lanzhou|ZLHW|
+ZLLL|Lanzhou ACC - Lanzhou|ZLLL|
+ZLXY|Xi'an ACC (Cover 8900m and Below [ZLHW Overlap area 8900m Above]) - Lanzhou|ZLXY|
+ZLXY-H|Xi'an ACC High (Cover 8900m to 12500m [ZLHW Overlap area 8900m Above]) - Lanzhou|ZLXY|
+ZULS|Lhasa ACC - Kunming|ZULS|
+ZPKM|Kunming|ZPKM|
+ZSHA|Shanghai|ZSHA|
+ZSSS|Shanghai ACC - Shanghai|ZSSS|
+ZSQD|Qingdao ACC - Shanghai|ZSQD|
+ZSJN|Jinan ACC (Cover ZSJN 7800m and Below) - Shanghai|ZSJN|
+ZSOF|Hefei ACC (Cover 7800m and Below) - Shanghai|ZSOF|
+ZSCN|Nanchang ACC (Cover 7800m and Below [ZSSS AR 01/21 Overlap area 6000m and Below]) - Shanghai|ZSCN|
+ZSAM|Xiamen ACC (Cover 7800m and Below) - Shanghai|ZSAM|
+ZUUU|Chengdu ACC - Kunming|ZUUU|
+ZUGY|Guiyang ACC (Cover 7800m and Below) - Kunming|ZUGY|
+ZPPP|Kunming ACC - Kunming|ZPPP|
+ZWUQ|Urumqi|ZWUQ|
+ZWWW|Urumqi ACC - Urumqi|ZWWW|
+ZWAK|Aksu ACC (Cover 6000m and Below) - Urumqi|ZWAK|
+ZYSH|Shenyang|ZYSH|
+ZYTX|Shenyang ACC - Shenyang|ZYTX|
+ZYHB|Harbin ACC (Cover 9800 Below) - Shenyang|ZYHB|
+ZYTL|Dalian ACC - Shenyang|ZYTL|
+ZMUB|Ulaan Baatar|ZMUB|
